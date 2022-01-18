@@ -1,4 +1,4 @@
-# Colored Hero
+# TicTacToe
 
 ![GIF](Docs/game.gif)
 
@@ -21,20 +21,19 @@
 ---
 
 ## Description
-Color based game where Player has to change colors between red, green and blue to avoid deadly obstacles and use terrain to his advantage.
-
+Game in which two players seek in alternate turns to complete a row, a column, or a diagonal with either three O's or three X's drawn in the spaces of a grid of nine squares.
 
 ---
 
 ## How To Play
-> Press "Space" to Jump | Press "A" to go left | Press "D" to go right 
-> Press "J" to turn RED | Press "K" to turn GREEN | Press "L" to turn BLUE 
+> Press on one of the 9 squares that you want to mark then switch turn with other player and repeat untill one of you win.
+
 
 ---
 
 ## Learned 
-- Use of the randomization 
-- Better prefab menagement
+- Played with operators 
+
 
 
 
@@ -48,4 +47,4 @@ Color based game where Player has to change colors between red, green and blue t
 - Twitter - [@MarceliKumiers1](https://twitter.com/MarceliKumiers1)
 - LinkedIn - [Marceli Kuśmierski](https://www.linkedin.com/in/marceli-ku%C5%9Bmierski-321969165/)
 
-[Back To The Top](#Colored-Hero)
+[Back To The Top](#TicTacToe)
